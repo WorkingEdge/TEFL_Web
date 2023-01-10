@@ -9,15 +9,13 @@
     </script>
   {{ end }}
 
-<!-- <script>
-    var bar = JSON.parse(document.getElementById('quiz').innerHTML);
-    console.log(bar);
-  </script> -->
-
 <section class="main">
 <div class="container">
     <div class="row">
-        <div class="col-10 pb-10">
+      <div class="col-12">
+        {{ .Content }}
+      </div>
+        <div class="col-12 pb-10">
             <button onclick="writeQuestions()">Start Quiz</button>
             <br>
             <div class="quizDivpb-10 " id="quizDiv"></div>

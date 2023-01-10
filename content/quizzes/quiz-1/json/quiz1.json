@@ -2,123 +2,53 @@
     "quiz":
         [
             {
-            "q": "gato",
-            "alts": ["dog", "cat", "mouse"],
+            "q": "It's been raining ______ 10 0'clock.",
+            "alts": ["for", "since"],
             "correctAns": 1
         },
         {
-            "q": "oso",
-            "alts": ["dog", "cat", "bear"],
-            "correctAns": 2
-        },
-        {
-            "q": "neko",
-            "alts": ["dog", "cat", "bear"],
-            "correctAns": 1
-        },
-        {
-            "q": "dogo",
-            "alts": ["dog", "cat", "bear"],
+            "q": "She's been looking for a job ____ 3 months.",
+            "alts": ["for", "since"],
             "correctAns": 0
         },
         {
-            "q": "I've been to Madrid in 2019.",
-            "alts": ["OK", "NOK"],
-            "correctAns": 1
-        },
-        {
-            "q": "It's 9 o'clock. Have you not had dinner ______ ?",
-            "alts": ["yet", "now", "sometime"],
+            "q": "I've been looking forward to a holiday _____ ages.",
+            "alts": ["for", "since"],
             "correctAns": 0
         },
         {
-            "q": "A. Are you hungry?    B: No, I ____ a big dinner.",
-            "alts": ["eat", "had", "eaten", "drank"],
+            "q": "I've been eating 5 oranges a day ____ I learned about the benefits of Vitamin C.",
+            "alts": ["for", "since"],
             "correctAns": 1
         },
         {
-            "q": "A. Are you hungry?    B: No, I ____ a big dinner.",
-            "alts": ["eat", "had", "eaten", "drank"],
-            "correctAns": 1
-        },
-        {
-            "q": "gato",
-            "alts": ["dog", "cat", "mouse"],
-            "correctAns": 1
-        },
-        {
-            "q": "oso",
-            "alts": ["dog", "cat", "bear"],
-            "correctAns": 2
-        },
-        {
-            "q": "neko",
-            "alts": ["dog", "cat", "bear"],
-            "correctAns": 1
-        },
-        {
-            "q": "dogo",
-            "alts": ["dog", "cat", "bear"],
+            "q": "I've been trying to get through to their office _____ 3 hours!",
+            "alts": ["for", "since"],
             "correctAns": 0
         },
         {
-            "q": "I've been to Madrid in 2019.",
-            "alts": ["OK", "NOK"],
+            "q": "She's been learning English _____ she arrived in Ireland.",
+            "alts": ["for", "since"],
             "correctAns": 1
         },
         {
-            "q": "It's 9 o'clock. Have you not had dinner ______ ?",
-            "alts": ["yet", "now", "sometime"],
+            "q": "He's been dreaming about being an astronaut ____ he was a kid.",
+            "alts": ["for", "since"],
+            "correctAns": 1
+        },
+        {
+            "q": "I've been thinking about a career change ____ about 2 years.",
+            "alts": ["for", "since"],
             "correctAns": 0
         },
         {
-            "q": "A. Are you hungry?    B: No, I ____ a big dinner.",
-            "alts": ["eat", "had", "eaten", "drank"],
-            "correctAns": 1
-        },
-        {
-            "q": "A. Are you hungry?    B: No, I ____ a big dinner.",
-            "alts": ["eat", "had", "eaten", "drank"],
-            "correctAns": 1
-        },
-        {
-            "q": "gato",
-            "alts": ["dog", "cat", "mouse"],
-            "correctAns": 1
-        },
-        {
-            "q": "oso",
-            "alts": ["dog", "cat", "bear"],
-            "correctAns": 2
-        },
-        {
-            "q": "neko",
-            "alts": ["dog", "cat", "bear"],
-            "correctAns": 1
-        },
-        {
-            "q": "dogo",
-            "alts": ["dog", "cat", "bear"],
+            "q": "The cat has been toying with that mouse ____ nearly an hour.",
+            "alts": ["for", "since"],
             "correctAns": 0
         },
         {
-            "q": "I've been to Madrid in 2019.",
-            "alts": ["OK", "NOK"],
-            "correctAns": 1
-        },
-        {
-            "q": "It's 9 o'clock. Have you not had dinner ______ ?",
-            "alts": ["yet", "now", "sometime"],
-            "correctAns": 0
-        },
-        {
-            "q": "A. Are you hungry? B: No, I ____ a big dinner.",
-            "alts": ["eat", "had", "have", "drank"],
-            "correctAns": 1
-        },
-        {
-            "q": "A. Are you hungry?    B: No, I ____ a big dinner.",
-            "alts": ["eat", "had", "eaten", "drank"],
+            "q": "I've been sleeping much better ____ I gave up coffee.",
+            "alts": ["for", "since"],
             "correctAns": 1
         }
         ]

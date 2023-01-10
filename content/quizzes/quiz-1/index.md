@@ -1,58 +1,28 @@
 ---
-title: "Quiz 1"
+title: "Quiz 1: For/Since"
 date: 2023-01-08T09:41:20Z
 draft: false
-
-
-quizTitle: A quick quiz
-
-questions:
-
-- question: I've been to Germany in 2016.
-  answers:
-  - option: A. This is correct
-    q: 1
-    label: A
-  - option: B. This is not correct
-    q: 1
-    label: B   
-  answer: B
-  url:
-
-- question: I went to Madrid last year.
-  answers:
-  - option: A. Right
-    q: 2
-    label: A
-  - option: B. Wrong
-    q: 2
-    label: B   
-  answer: B
-  url:
-
-- question: It's 9 0'clock! Have you not finished ____?
-  answers:
-  - option: A. yet
-    q: 3
-    label: A
-  - option: B. until
-    q: 3
-    label: B
-  - option: C. always
-    q: 3
-    label: C   
-  answer: B
-  url:
-
-- question: I've been in Ireland since  months.
-  answers:
-  - option: A. OK
-    q: 4
-    label: A
-  - option: B. NOK
-    q: 4
-    label: B   
-  answer: B
-  url:
+summary: Use 'for' with an amount of time and 'since' with a point in time.
 ---
+# Using For and Since
 
+### For
+Use 'for' when mentioning the amount of time.
+For example:
+
+I've been reading this book for **3 weeks**.
+
+I've been playing chess for **20 years**.
+
+*3 weeks* and *20 years* are an amount of time.
+
+#### Since
+Use since when mentioning a point in time (past).
+The *point in time* can be from a specific clock time, or calendar time, or it can be a past action.
+For example:
+
+I've been following this series on Netflix since **January first** (1).
+
+I've been playing chess since I **started secondary school**.
+
+She's been feeling unwell since she **ate that sandwich**.
