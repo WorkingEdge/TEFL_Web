@@ -13,7 +13,7 @@ main {
 /* Background image on the home page */
 .g-hero{
   background-image: url("/img/dictionary-image.jpg");
-  height: 0px;
+  height: 230px;
   background-size:     cover;                      
   background-repeat:   no-repeat;
   background-position: center center; 
