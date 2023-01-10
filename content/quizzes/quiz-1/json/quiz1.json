@@ -1,0 +1,125 @@
+{
+    "quiz":
+        [
+            {
+            "q": "gato",
+            "alts": ["dog", "cat", "mouse"],
+            "correctAns": 1
+        },
+        {
+            "q": "oso",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 2
+        },
+        {
+            "q": "neko",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 1
+        },
+        {
+            "q": "dogo",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 0
+        },
+        {
+            "q": "I've been to Madrid in 2019.",
+            "alts": ["OK", "NOK"],
+            "correctAns": 1
+        },
+        {
+            "q": "It's 9 o'clock. Have you not had dinner ______ ?",
+            "alts": ["yet", "now", "sometime"],
+            "correctAns": 0
+        },
+        {
+            "q": "A. Are you hungry?    B: No, I ____ a big dinner.",
+            "alts": ["eat", "had", "eaten", "drank"],
+            "correctAns": 1
+        },
+        {
+            "q": "A. Are you hungry?    B: No, I ____ a big dinner.",
+            "alts": ["eat", "had", "eaten", "drank"],
+            "correctAns": 1
+        },
+        {
+            "q": "gato",
+            "alts": ["dog", "cat", "mouse"],
+            "correctAns": 1
+        },
+        {
+            "q": "oso",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 2
+        },
+        {
+            "q": "neko",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 1
+        },
+        {
+            "q": "dogo",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 0
+        },
+        {
+            "q": "I've been to Madrid in 2019.",
+            "alts": ["OK", "NOK"],
+            "correctAns": 1
+        },
+        {
+            "q": "It's 9 o'clock. Have you not had dinner ______ ?",
+            "alts": ["yet", "now", "sometime"],
+            "correctAns": 0
+        },
+        {
+            "q": "A. Are you hungry?    B: No, I ____ a big dinner.",
+            "alts": ["eat", "had", "eaten", "drank"],
+            "correctAns": 1
+        },
+        {
+            "q": "A. Are you hungry?    B: No, I ____ a big dinner.",
+            "alts": ["eat", "had", "eaten", "drank"],
+            "correctAns": 1
+        },
+        {
+            "q": "gato",
+            "alts": ["dog", "cat", "mouse"],
+            "correctAns": 1
+        },
+        {
+            "q": "oso",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 2
+        },
+        {
+            "q": "neko",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 1
+        },
+        {
+            "q": "dogo",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 0
+        },
+        {
+            "q": "I've been to Madrid in 2019.",
+            "alts": ["OK", "NOK"],
+            "correctAns": 1
+        },
+        {
+            "q": "It's 9 o'clock. Have you not had dinner ______ ?",
+            "alts": ["yet", "now", "sometime"],
+            "correctAns": 0
+        },
+        {
+            "q": "A. Are you hungry? B: No, I ____ a big dinner.",
+            "alts": ["eat", "had", "have", "drank"],
+            "correctAns": 1
+        },
+        {
+            "q": "A. Are you hungry?    B: No, I ____ a big dinner.",
+            "alts": ["eat", "had", "eaten", "drank"],
+            "correctAns": 1
+        }
+        ]
+}

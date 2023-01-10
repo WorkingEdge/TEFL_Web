@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+
+<!-- https://discourse.gohugo.io/t/loading-json-files-from-a-javascript-program/31699/4 -->
+  
+{{ range (.Resources.Match "json/*") }}
+    <script type="application/json" id="quiz">
+      {{ .Content | safeJS }}
+    </script>
+  {{ end }}
+
+<!-- <script>
+    var bar = JSON.parse(document.getElementById('quiz').innerHTML);
+    console.log(bar);
+  </script> -->
+
+<section class="main">
+<div class="container">
+    <div class="row">
+        <div class="col-10 pb-10">
+            <button onclick="writeQuestions()">Start Quiz</button>
+            <br>
+            <div class="quizDivpb-10 " id="quizDiv"></div>
+            </div>
+
+        </div>
+</div>
+</section>
+
+{{ end }}

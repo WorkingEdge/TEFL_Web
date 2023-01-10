@@ -1,0 +1,35 @@
+{
+    "quiz":
+        [
+            {
+            "q": "gato",
+            "alts": ["dog", "cat", "mouse"],
+            "correctAns": 1
+        },
+        {
+            "q": "oso",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 2
+        },
+        {
+            "q": "oso",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 1
+        },
+        {
+            "q": "gato",
+            "alts": ["dog", "cat", "mouse"],
+            "correctAns": 1
+        },
+        {
+            "q": "oso",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 1
+        },
+        {
+            "q": "oso",
+            "alts": ["dog", "cat", "bear"],
+            "correctAns": 1
+        }
+        ]
+}

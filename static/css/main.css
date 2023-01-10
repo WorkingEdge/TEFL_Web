@@ -1,0 +1,64 @@
+
+/* Sticky footer - see: https://css-tricks.com/couple-takes-sticky-footer/ */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  } 
+main {
+    flex: 1;
+    margin-bottom: 20px;
+  }
+
+/* Background image on the home page */
+.g-hero{
+  background-image: url("/img/dictionary-image.jpg");
+  height: 450px;
+  background-size:     cover;                      
+  background-repeat:   no-repeat;
+  background-position: center center; 
+}
+.g-top{
+  height: 220px;
+  padding-bottom: 10px;
+  background-size:     cover;                      
+  background-repeat:   no-repeat;
+  background-position: center center;
+}
+
+
+/* Quiz_Stuff */
+.questionDiv{
+  margin-top: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  /* background-color: aqua; */
+}
+.questionPara{
+  margin-bottom: 0px;
+  font-size: large;
+  font-style: italic;
+  padding-left: 5px;
+}
+.answer:hover{
+  color: rebeccapurple;
+  font-weight: 700;
+}
+
+.answer{
+  background-color: whitesmoke;
+}
+.rightAns{
+  background-color:#ffcc00;
+  font-style: italic;
+  font-weight: bold;
+}
+.wrongAns{
+  background-color: darkred;
+  font-style: italic;
+  color: #fafafa;
+}
+.optionText{
+  margin-bottom: 0px;
+  margin-left: 6px;
+}

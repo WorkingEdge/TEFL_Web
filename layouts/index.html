@@ -1,0 +1,58 @@
+{{ define "main" }}
+<div class="container-fluid g-hero">
+
+</div>
+<section class="hero">
+    <div class="container col-xxl-8">
+        <div class="row align-items-center justify-content-center py-5 g-5">
+            <div class="col-lg-6">
+                <img src="/img/sl-aughty-oldmap.jpg" alt="Bootstrap themes" class="img-fluid d-block mx-auto">
+            </div>
+            <div class="col-lg-6 order-lg-first">
+                <h2>{{ .Params.heading }}</h2>
+                <p>{{ .Content }}</p>
+                <div class="d-grid gap-2 d-md-flex">
+                    {{ with .Params.btn1 }}
+                    {{ if and .url .text }}
+                    <button type="button" href="{{- .url -}}" class="btn btn-primary btn-lg px-4 me-md-2">{{ .text }}</button>
+                    {{ end }}
+                    {{ end }}
+                    {{ with .Params.btn2 }}
+                    {{ if and .url .text }}
+                    <button type="button" href="{{- .url -}}" class="btn btn-outline-secondary btn-lg px-4 me-md-2">{{ .text }}</button>
+                    {{ end }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="fs-2 pb-3">{{ .Params.cardsTitle }}</h2>
+            </div>
+        </div>
+        <div class="row pb-3">
+            {{ range .Params.cards }} <!-- Iterate over cards in _index.md -->
+            <div class="col-md-4">
+                <div class="card mb-3">
+                    <img src="{{ .img }}" class="card-img-top img-fluid" alt="{{ .title }}">
+                    <div class="card-body">
+                      <h5 class="card-title">{{ .title }}</h5>
+                      <p class="card-text">{{ .text }}</p>
+                      {{ with .btn }}
+                      {{ if and .url .text}}
+                      <a href="{{ .url }}" class="btn btn-primary">{{ .text }}</a>
+                      {{ end }}
+                      {{ end }}  
+                    </div>
+                  </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ end }}

@@ -1,0 +1,14 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: English Lesson Recaps
+#copyright: 
+
+paginate: 5 #Controls number of pages displayed on list pages
+summaryLength: 9
+# Following required for Hugo to render MD to HTML
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Menu links via config file
