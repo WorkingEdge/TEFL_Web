@@ -2,34 +2,22 @@
     "quiz":
         [
             {
-            "q": "gato",
-            "alts": ["dog", "cat", "mouse"],
-            "correctAns": 1
+            "q": "Have you had a pizza ysterday?",
+            "alts": ["OK", "Not OK"],
+            "correctAns": 1,
+            "explanation": "" 
         },
         {
-            "q": "oso",
-            "alts": ["dog", "cat", "bear"],
-            "correctAns": 2
+            "q": "Have you ever seen Star Wars?",
+            "alts": ["OK", "Not OK"],
+            "correctAns": 0,
+            "explanation": "" 
         },
         {
-            "q": "oso",
-            "alts": ["dog", "cat", "bear"],
-            "correctAns": 1
-        },
-        {
-            "q": "gato",
-            "alts": ["dog", "cat", "mouse"],
-            "correctAns": 1
-        },
-        {
-            "q": "oso",
-            "alts": ["dog", "cat", "bear"],
-            "correctAns": 1
-        },
-        {
-            "q": "oso",
-            "alts": ["dog", "cat", "bear"],
-            "correctAns": 1
+            "q": "You look sick for the past 5 days. Have you not gone to see a doctor yet?",
+            "alts": ["OK", "Not OK"],
+            "correctAns": 0,
+            "explanation": "" 
         }
         ]
 }

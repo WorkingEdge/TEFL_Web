@@ -13,5 +13,4 @@ weight: 10
 #   url: https://gohugo.io/
 
 ---
-## The present is not a time for desperation but for hopeful activity.
-  -- Thomas Berry, “The Meadow Across the Creek,” in *The Great Work*.
+

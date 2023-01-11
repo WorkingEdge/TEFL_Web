@@ -1,6 +1,5 @@
 {{ define "main" }}
-<div class="container-fluid g-hero">
-
+<div class="container-fluid g-hero"> <!-- Banner/Hero image -->
 </div>
 <section class="hero">
     <div class="container col-xxl-8">
@@ -8,7 +7,7 @@
             <div class="col-lg-6">
                 <img src="/img/sl-aughty-oldmap.jpg" alt="Bootstrap themes" class="img-fluid d-block mx-auto">
             </div>
-            <div class="col-lg-6 order-lg-first">
+            <div id="front-page-text" class="col-lg-6 order-lg-first">
                 <h2>{{ .Params.heading }}</h2>
                 <p>{{ .Content }}</p>
                 <div class="d-grid gap-2 d-md-flex">

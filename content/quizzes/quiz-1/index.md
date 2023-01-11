@@ -1,10 +1,13 @@
 ---
-title: "Quiz 1: For/Since"
+title: "For/Since"
 date: 2023-01-08T09:41:20Z
 draft: false
 summary: Use 'for' with an amount of time and 'since' with a point in time.
 ---
 # Using For and Since
+
+Use for an since to talk about the length of time that something has been happening.
+
 
 ### For
 Use 'for' when mentioning the amount of time.

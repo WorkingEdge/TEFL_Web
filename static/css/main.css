@@ -25,6 +25,14 @@ main {
   background-repeat:   no-repeat;
   background-position: center center;
 }
+#front-page-text{
+  background-image: url("/img/Flag_of_Ukraine.svg.webp");
+  background-size:     cover;                      
+  background-repeat:   no-repeat;
+  background-position: center center;
+  min-height: 300px;
+  color: #fafafa; 
+}
 
 .blockquote{
   background-color: beige;
@@ -41,17 +49,23 @@ main {
 .questionPara{
   margin-bottom: 0px;
   font-size: large;
-  font-style: italic;
+  /* font-style: italic; */
   padding-left: 5px;
   font-weight: 700;
 }
 .answer:hover{
   color: rebeccapurple;
   font-weight: 700;
+  background-color: beige;
 }
 
 .answer{
   background-color: whitesmoke;
+  border-style: solid;
+  border-radius: 2px;
+  border-color: darkcyan;
+  border-width: 1px;
+  min-height: 40px;
 }
 .rightAns{
   background-color: green;
