@@ -1,0 +1,55 @@
+{
+    "quiz":
+        [
+            {
+            "q": "I going to go to Dublin next week.",
+            "alts": ["ok", "not ok"],
+            "correctAns": 1
+        },
+        {
+            "q": "She'll going to move to the UK in March.",
+            "alts": ["ok", "not ok"],
+            "correctAns": 1
+        },
+        {
+            "q": "I'm going to go to Edinburgh for a holiday in May.",
+            "alts": ["ok", "not ok"],
+            "correctAns": 0
+        },
+        {
+            "q": "I've decided I'm going to try and run 10km four times every week in 2023.",
+            "alts": ["ok", "not ok"],
+            "correctAns": 0
+        },
+        {
+            "q": "We had a meeting yesterday and we made a decision - we're going to study English together for one hour every evening.",
+            "alts": ["ok", "not ok"],
+            "correctAns": 0
+        },
+        {
+            "q": "Now that you are vegetarian, what are you going to eat instead of meat?",
+            "alts": ["ok", "not ok"],
+            "correctAns": 0
+        },
+        {
+            "q": "Britain is going to supply Ukraine with tanks.",
+            "alts": ["ok", "not ok"],
+            "correctAns": 0
+        },
+        {
+            "q": "I spoke to her yesterday and she told me her plan for the future. She going to quit her job and go to India!",
+            "alts": ["ok", "not ok"],
+            "correctAns": 1
+        },
+        {
+            "q": "The hotel were super busy last year. They is going to add 10 new rooms this year.",
+            "alts": ["ok", "not ok"],
+            "correctAns": 1
+        },
+        {
+            "q": "Are you going to go anywhere on holiday this year?",
+            "alts": ["ok", "not ok"],
+            "correctAns": 0
+        }
+        ]
+}

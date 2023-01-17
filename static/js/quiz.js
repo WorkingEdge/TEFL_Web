@@ -12,7 +12,7 @@ function writeQuestions(){
         for (let j=0; j < ansOptions.length; j++){
             addOptions += 
                         `
-                        <div class="answer align-middle" id="Q${i}Ans${j}" onclick="checkAns(this.id)"><p class="optionText">${ansOptions[j]}</p></div>
+                        <div class="answer" id="Q${i}Ans${j}" onclick="checkAns(this.id)"><p class="optionText">${ansOptions[j]}</p></div>
                         `
             }
 
